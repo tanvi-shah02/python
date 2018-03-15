@@ -1,0 +1,5 @@
+tup1 = ('tanvi',2001,'kinjal',2017,2004)
+tup2 = ('tanvi',2001,'kinjal',2017,2004)
+n=len(tup1)
+print(n)
+print("good bye")
